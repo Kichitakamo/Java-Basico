@@ -1,8 +1,6 @@
 # Java-Basico
 
-Claro! Vamos começar um **curso introdutório de programação em Java**, passo a passo. Abaixo está o **plano de curso** com os módulos principais, e após isso, te passo a **lição 1** para começarmos de verdade.
 
----
 
 ### 🚀 **Curso de Programação em Java – Iniciante ao Intermediário**
 
